@@ -1,0 +1,24 @@
+DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
+To: Rob Lust, Owner / Officer
+Quicksilver Express Courier - Saint Paul, MN
+lust@qec.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=429037)
+Subject: The Twin Cities dock
+
+Hi Rob,
+
+You run Quicksilver's Minnesota courier operation out of St. Paul, one hub in a seven-metro network you built from the Twin Cities out.
+
+I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
+
+- Container fullness: knowing a chute or container is full before someone walks over to check it.
+- Package dwell: where parcels sit idle between scans, and why.
+- Freight cost: empty miles on truckload tours.
+- Labor balancing: moving people to where the work is, hour by hour.
+- Dock-door staffing: directing associates to the outbound doors that need them, when they need them.
+
+Ask me anything, I do consulting.
+
+Best,
+Aidan Jude
+https://www.linkedin.com/in/aidan-jude-2016/
+https://randomaidan.substack.com/p/directed-staffing-of-outbound-dock

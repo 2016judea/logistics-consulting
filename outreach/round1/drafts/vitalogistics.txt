@@ -1,0 +1,24 @@
+DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
+To: Dalton, Founder / Operations
+VitaLogistics - Saint Paul, MN
+Dalton@VitaLogistics.Co  (published: https://vitalogistics.co)
+Subject: Holding a 99.4% SLA
+
+Hi Dalton,
+
+You posted a 99.4% SLA hit rate for Q1 on a 2pm same-day cutoff, running fulfillment for founder-led supplement and wellness brands out of Transfer Road.
+
+I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
+
+- Container fullness: knowing a chute or container is full before someone walks over to check it.
+- Package dwell: where parcels sit idle between scans, and why.
+- Freight cost: empty miles on truckload tours.
+- Labor balancing: moving people to where the work is, hour by hour.
+- Dock-door staffing: directing associates to the outbound doors that need them, when they need them.
+
+Ask me anything, I do consulting.
+
+Best,
+Aidan Jude
+https://www.linkedin.com/in/aidan-jude-2016/
+https://randomaidan.substack.com/p/directed-staffing-of-outbound-dock

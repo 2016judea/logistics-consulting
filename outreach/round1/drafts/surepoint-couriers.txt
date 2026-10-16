@@ -1,0 +1,24 @@
+DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
+To: Matthew Lively, Owner
+SurePoint Couriers - Orion, MI
+matthew.lively@surepointcouriers.com  (published: https://surepointcouriers.com)
+Subject: Scaling a 1099 fleet nationwide
+
+Hi Matthew,
+
+You're scaling SurePoint's 1099 same-day driver network nationwide, and your latest federal filing this September already lists 400 drivers.
+
+I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
+
+- Container fullness: knowing a chute or container is full before someone walks over to check it.
+- Package dwell: where parcels sit idle between scans, and why.
+- Freight cost: empty miles on truckload tours.
+- Labor balancing: moving people to where the work is, hour by hour.
+- Dock-door staffing: directing associates to the outbound doors that need them, when they need them.
+
+Ask me anything, I do consulting.
+
+Best,
+Aidan Jude
+https://www.linkedin.com/in/aidan-jude-2016/
+https://randomaidan.substack.com/p/directed-staffing-of-outbound-dock
