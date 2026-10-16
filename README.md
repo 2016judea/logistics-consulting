@@ -6,11 +6,14 @@ engagements. This repo holds the outreach for that, built off his public proof a
 the Substack post *"Directed Staffing of Outbound Dock Doors in Amazon Fulfillment
 Centers."*
 
-## Nothing here has been sent.
+## Status: all 50 scheduled (2026-10-16)
 
-Contacting a human is Aidan's gate. Every file in `outreach/round1/drafts/` is a
-**draft** he reads before anything goes out. No message has been delivered, scheduled,
-or queued. The plumbing to send is deliberately not in this repo.
+Aidan said go. All 50 are scheduled in Zoho from aidan@brickandmortar.dev, plaintext,
+America/Chicago: 12 on 10/22, 24 on 10/23, 14 on 10/26, fitted under the mailbox cap
+(`~/.claude/hooks/zoho_send_cap.py`). One email each, no follow-ups. Per-row status and
+send time are in `recipients.csv`; `queue.json` is what was scheduled
+(`scripts/build_queue.py`). Read replies with the business-inbox skill and fill
+`reply_kind` / `reply_on`.
 
 ## What's here
 
