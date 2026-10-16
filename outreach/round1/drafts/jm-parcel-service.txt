@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Monique Jones, Owner
-JM Parcel Service - Salem, MA
-jjones@jmparcelservice.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=4041895)
+To: jjones@jmparcelservice.com
 Subject: Drivers out of Salem
+Scheduled: 10/23/2026 10:05:14 America/Chicago
 
-Hi Monique,
+Hi there,
 
-You run JM Parcel with 80 drivers off a 30-truck base out of Salem, and refreshed your federal filing just this month.
+You run JM Parcel with 80 drivers off a 30-truck base out of Salem.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

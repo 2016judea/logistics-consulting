@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Cecil Graves, Owner
-Zip Delivery Services - Tucson, AZ
-cecil@zipdeliveryservices.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=4151097)
+To: cecil@zipdeliveryservices.com
 Subject: 100 trucks out of Tucson
+Scheduled: 10/23/2026 11:17:14 America/Chicago
 
 Hi Cecil,
 
-You run Zip as a 100-truck same-day operation out of Tucson, a filing you refreshed with FMCSA this May.
+You run Zip as a 100-truck same-day operation out of Tucson.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

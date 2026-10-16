@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Brian Sletten, Owner
-Brickhouse Delivery Service - Albertville, MN
-brian.s@brickhousedeliveryservice.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=3775529)
+To: brian.s@brickhousedeliveryservice.com
 Subject: Growing out of Albertville
+Scheduled: 10/26/2026 08:31:14 America/Chicago
 
 Hi Brian,
 
-You run Brickhouse as a nine-truck delivery operation out of Albertville, and refreshed your federal carrier filing this March as you scale.
+You run Brickhouse as a nine-truck delivery operation out of Albertville, and you're scaling.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

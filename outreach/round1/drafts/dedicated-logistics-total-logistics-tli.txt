@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Mike Narance, Vice President, Operations
-Dedicated Logistics / Total Logistics (TLI) - Oakdale, MN
-mike.narance@tlicompanies.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=618375)
+To: mike.narance@tlicompanies.com
 Subject: 213 trucks out of Oakdale
+Scheduled: 10/23/2026 09:49:14 America/Chicago
 
 Hi Mike,
 
-You run the dedicated-fleet and warehousing side of Total Logistics out of Oakdale, a 213-power-unit operation you refiled with FMCSA this March.
+You run the dedicated-fleet and warehousing side of Total Logistics out of Oakdale, 213 power units.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

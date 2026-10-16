@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Ben Lockett, Owner
-The Last Mile Company - Castle Pines, CO
-ben@thelastmileco.com  (published: https://thelastmileco.com/what-we-do)
+To: ben@thelastmileco.com
 Subject: Ecommerce last mile
+Scheduled: 10/23/2026 09:17:14 America/Chicago
 
 Hi Ben,
 
-You run The Last Mile Company on ecommerce home delivery, a 56-truck operation you refreshed with FMCSA at the end of September.
+You run The Last Mile Company on ecommerce home delivery, a 56-truck operation.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

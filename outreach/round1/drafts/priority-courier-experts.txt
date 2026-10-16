@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Joshua Smith, Owner
-Priority Courier Experts - Vadnais Heights, MN
-JOSHUA.SMITH@PRIORITY.COM  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=699924)
+To: JOSHUA.SMITH@PRIORITY.COM
 Subject: 163 trucks across the Twin Cities
+Scheduled: 10/22/2026 11:29:14 America/Chicago
 
 Hi Joshua,
 
-You run Priority as a 163-truck on-demand courier operation out of Vadnais Heights, and refreshed your federal filing this April.
+You run Priority as a 163-truck on-demand courier operation out of Vadnais Heights.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

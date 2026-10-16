@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Richard Marks, Owner
-TruckCourier (28Freight) - Wilmington, MA
-richard.marks@truckcourier.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=542502)
+To: richard.marks@truckcourier.com
 Subject: Same-day rush out of Wilmington
+Scheduled: 10/23/2026 11:41:14 America/Chicago
 
 Hi Richard,
 
-You run TruckCourier as a 44-truck same-day rush operation out of Wilmington, available around the clock, refreshed with FMCSA this March.
+You run TruckCourier as a 44-truck same-day rush operation out of Wilmington, around the clock.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

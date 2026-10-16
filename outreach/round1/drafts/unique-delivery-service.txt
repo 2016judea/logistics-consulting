@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Angelica Mar, Owner
-Unique Delivery Service - Lombard, IL
-amar@uniquedelivery.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=969709)
+To: amar@uniquedelivery.com
 Subject: 84 trucks out of Lombard
+Scheduled: 10/26/2026 08:47:14 America/Chicago
 
 Hi Angelica,
 
-You run Unique Delivery as an 84-truck operation out of Lombard, and refreshed your federal filing this September.
+You run Unique Delivery as an 84-truck operation out of Lombard.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

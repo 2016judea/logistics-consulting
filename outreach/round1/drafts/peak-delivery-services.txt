@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Brian Baugh, Owner
-Peak Delivery Services - Colorado Springs, CO
-brianbaugh@peakdelivery.co  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=3307152)
+To: brianbaugh@peakdelivery.co
 Subject: Last mile out of Colorado Springs
+Scheduled: 10/23/2026 10:53:14 America/Chicago
 
 Hi Brian,
 
-You run Peak Delivery out of Colorado Springs and refreshed your federal carrier filing this May as the route count grew.
+You run Peak Delivery's last-mile routes out of Colorado Springs, and the route count keeps growing.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Andrew Laycock, Owner
-MC Delivery - Tacoma, WA
-slaycock-webb@mcdelivery.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=8298)
+To: slaycock-webb@mcdelivery.com
 Subject: Delivery since 1928
+Scheduled: 10/23/2026 12:05:14 America/Chicago
 
-Hi Andrew,
+Hi there,
 
-You run MC Delivery out of Tacoma, a document, package and LTL operation your family has run since 1928, refreshed with FMCSA this April.
+You run MC Delivery out of Tacoma, a document, package and LTL operation the family has run since 1928.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 

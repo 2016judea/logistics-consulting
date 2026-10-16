@@ -1,12 +1,10 @@
-DRAFT - NOT SENT. Contacting a human is Aidan's gate; he reads every draft first.
-To: Chad Davis, Owner
-Davis Delivery Service - Buford, GA
-ryan@davisdeliveryservice.com  (FMCSA-filed: https://safer.fmcsa.dot.gov/query.asp?searchtype=ANY&query_type=queryCarrierSnapshot&query_param=USDOT&query_string=749868)
+To: ryan@davisdeliveryservice.com
 Subject: LTL final mile out of Buford
+Scheduled: 10/22/2026 10:41:14 America/Chicago
 
-Hi Chad,
+Hi Ryan,
 
-You run Davis Delivery as a 65-truck LTL and final-mile operation out of Buford, and refreshed your federal filing in September as you add drivers.
+You run Davis Delivery as a 65-truck LTL and final-mile operation out of Buford, and you're adding drivers.
 
 I was formerly a researcher in Amazon transportation and fulfilment. These are some of the things I worked on:
 
