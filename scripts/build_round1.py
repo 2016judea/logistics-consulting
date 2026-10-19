@@ -249,15 +249,29 @@ Aidan Jude
 """
 
 
+COLS = ["segment", "company", "city_state", "person", "title", "email", "email_method",
+        "email_source_url", "subject", "opener_fact", "opener_source_url", "opener_date", "draft_file"]
+
+
 def slugify(company):
     s = re.sub(r"[^a-z0-9]+", "-", company.lower()).strip("-")
     return s[:48]
 
 
-def main():
-    base = os.path.join(os.path.dirname(__file__), "..", "outreach", "round1")
+def main(base=None):
+    base = base or os.path.join(os.path.dirname(__file__), "..", "outreach", "round1")
     draft_dir = os.path.join(base, "drafts")
     os.makedirs(draft_dir, exist_ok=True)
+    csv_path = os.path.join(base, "recipients.csv")
+    # The CSV is also the ledger: status, scheduled_ct, reply_kind and reply_on are filled in by
+    # hand after a send. A rebuild used to write only the columns above and wiped them.
+    kept, extra = {}, []
+    if os.path.exists(csv_path):
+        with open(csv_path, newline="") as f:
+            r = csv.DictReader(f)
+            extra = [c for c in (r.fieldnames or []) if c not in COLS]
+            for row in r:
+                kept[row["draft_file"]] = {c: row.get(c, "") for c in extra}
     seen = set()
     rows = []
     for (seg, co, city, person, title, email, method, esrc, subj, opener, osrc, odate) in R:
@@ -274,13 +288,11 @@ def main():
             f.write(f"To: {person}, {title}\n{co} - {city}\n{email}  ({meth}: {esrc})\n")
             f.write(f"Subject: {subj}\n\n")
             f.write(body(person, opener))
-    cols = ["segment", "company", "city_state", "person", "title", "email", "email_method",
-            "email_source_url", "subject", "opener_fact", "opener_source_url", "opener_date", "draft_file"]
-    with open(os.path.join(base, "recipients.csv"), "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=cols)
+    with open(csv_path, "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=COLS + extra)
         w.writeheader()
         for r in rows:
-            w.writerow(r)
+            w.writerow({**{c: "" for c in extra}, **kept.get(r["draft_file"], {}), **r})
     from collections import Counter
     seg = Counter(r["segment"] for r in rows)
     meth = Counter(r["email_method"] for r in rows)

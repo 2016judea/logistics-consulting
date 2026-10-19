@@ -32,7 +32,8 @@ send time are in `recipients.csv`; `queue.json` is what was scheduled
 - `scripts/` — the tools used to find and verify recipients (FMCSA census lookups,
   on-site email harvesting, careers/job-post scans). `build_round1.py` is the source of
   truth: it writes the CSV and every draft. Edit it, re-run it, don't hand-edit the
-  output.
+  output. A rebuild keeps the hand-filled ledger columns (`status`, `scheduled_ct`,
+  `reply_kind`, `reply_on`). Tests: `python3 -m pytest tests` (pytest 9, stdlib only).
 
 ## Address rule
 
