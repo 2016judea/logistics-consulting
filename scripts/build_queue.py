@@ -2,7 +2,7 @@
 (~/.claude/hooks/zoho_send_cap.py: 10/h, 25/24h, 90s gap), weekdays 08:30-15:30 CT."""
 import csv, json, os, time, datetime, re
 from zoneinfo import ZoneInfo
-R = os.path.expanduser('~/Desktop/logistics-consulting/outreach/round1')
+R = os.path.expanduser('~/Desktop/workspace/logistics-consulting/outreach/round1')
 tz = ZoneInfo('America/Chicago')
 rows = list(csv.DictReader(open(f'{R}/recipients.csv')))
 def parse(r):
